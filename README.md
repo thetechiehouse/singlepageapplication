@@ -1,0 +1,4 @@
+singlepageapplication
+=====================
+
+Single Page Application
